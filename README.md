@@ -9,6 +9,7 @@
 | Attribute | Description |
 |---|---|
 | `vsm` | [vault-sessions-manager](https://github.com/Dauliac/vault-sessions-manager): manage multiple HashiCorp Vault contexts and sessions |
+| `xi` | [xi](https://github.com/Dauliac/xi): yet another nix cli helper |
 
 ## Usage
 

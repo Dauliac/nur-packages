@@ -15,4 +15,5 @@
 
 {
   vsm = pkgs.callPackage ./pkgs/vsm { };
+  xi = pkgs.callPackage ./pkgs/xi { };
 }

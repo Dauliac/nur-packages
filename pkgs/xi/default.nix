@@ -26,7 +26,7 @@ rustPlatform.buildRustPackage (finalAttrs: {
     owner = "Dauliac";
     repo = "xi";
     tag = "v${finalAttrs.version}";
-    hash = "sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=";
+    hash = "sha256-IBXecl8a3sHx4hi5y4yE1W0FcD8ZH9rQ+SSn1ulhZW0=";
   };
 
   cargoHash = "sha256-HVU+fGdtqH5pSy3d+sHHh1c2wOJZCj43p3rmJp8liUw=";
